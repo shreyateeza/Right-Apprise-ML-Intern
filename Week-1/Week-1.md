@@ -13,10 +13,11 @@
 
 **Learn Scientific libraries in Python – NumPy, SciPy, Matplotlib and Pandas**  
 This is where fun begins! Here is a brief introduction to various libraries. Let’s start practicing some common operations.
-Practice the NumPy tutorial thoroughly, especially NumPy arrays. This will form a good foundation for things to come.
-Next, look at the SciPy tutorials. Go through the introduction and the basics and do the remaining ones basis your needs.
-Finally, let us look at Pandas. Pandas provide DataFrame functionality (like R) for Python. This is also where you should spend good time practicing. Pandas would become the most effective tool for all mid-size data analysis. Start with a short introduction, 10 minutes to pandas. Then move on to a more detailed tutorial on pandas.
-Check out DataCamp’s course on Pandas Foundations
+
+* Practice the NumPy tutorial thoroughly, especially NumPy arrays. This will form a good foundation for things to come.
+* Next, look at the SciPy tutorials. Go through the introduction and the basics and do the remaining ones basis your needs.
+* Finally, let us look at Pandas. Pandas provide DataFrame functionality (like R) for Python. This is also where you should spend good time practicing. Pandas would become the most effective tool for all mid-size data analysis. Start with a short introduction, 10 minutes to pandas. Then move on to a more detailed tutorial on pandas.
+* Check out DataCamp’s course on Pandas Foundations
 
 ## **WEEK 1 ASSIGNMENT:**
 Assignment: Solve [this](http://nbviewer.jupyter.org/github/cs109/2014/blob/master/homework/HW1.ipynb) assignment from CS109 course from Harvard.
