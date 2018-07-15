@@ -18,3 +18,5 @@ You can use above links given on the table to learn the topics mentioned along s
 However, I followed these resources to learn ML (Note these are not free)-
 1. [Practical Machine Learning with Python: A Problem-Solver's Guide to Building Real-World Intelligent Systems by Dipanjan Sarkar, Raghav Bali and Tushar Sharma](https://www.amazon.in/Practical-Machine-Learning-Python-Problem-Solvers/dp/1484232062?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=fbfc405a-a9f9-4a28-a455-141eb00832bc)
 2. [Machine Learning A-Z™ Hands On Python & R in Data Science - Udemy](https://www.udemy.com/machinelearning/)
+
+I am writing a series on [Machine Learning](https://medium.com/series/73d7686fa634) you can follow me on [Medium](https://medium.com/@shreyateeza) to stay updated!
